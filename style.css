@@ -1,16 +1,24 @@
 /* Área reservada para a estilização e design do site */
 
+element.style {
+}
+
 body {
     background-color: rgb(127, 133, 133);
     font-family: 'Times New Roman', Times, serif;
 }
 
-h1 {
-    margin: 10px auto;
-    padding: 10px;
-    text-align: start;
+.logo {
+    height: 100%!important;
 }
 
+.no-margin {
+    margin: 0px!important;
+}
+
+.no-padding {
+
+}
 
 .conteudo {
     margin: 25px auto;

@@ -1,12 +1,2 @@
 /* Área reservada para a interação e responsividade do site */
 
-/* Para dispositivos menores */
-@media only screen and (max-width: 600px) {
-    /* Largura de tela menores que 600px (pixels) */
-}
-
-/* Para dispositivos maiores */
-@media only screen and (min-width: 601px) {
-    /* Largura de tela maiores que 601px */
-}
-
