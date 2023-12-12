@@ -1,0 +1,19 @@
+/* Área reservada para a estilização e design do site */
+
+body {
+    background-color: rgb(127, 133, 133);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    margin: 10px auto;
+    padding: 10px;
+    text-align: start;
+}
+
+
+.conteudo {
+    margin: 25px auto;
+    padding: 10px;
+    border: 1px solid black;
+}
